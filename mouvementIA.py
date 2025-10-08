@@ -3,4 +3,4 @@ def IA_structure():
     def Déplacement_IA():
         # Ici on définit les règles de déplacement
         
-        return
+        return.
