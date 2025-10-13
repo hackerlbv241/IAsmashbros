@@ -4,3 +4,7 @@ def IA_structure():
         # Ici on définit les règles de déplacement
         
         return
+    
+
+def naruto ():
+    return "dattebayo"
